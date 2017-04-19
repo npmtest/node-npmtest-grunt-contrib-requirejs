@@ -1,4 +1,7 @@
-# test coverage for  [grunt-contrib-requirejs (v1.0.0)](https://github.com/gruntjs/grunt-contrib-requirejs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-requirejs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-requirejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-requirejs.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-requirejs)
+# npmtest-grunt-contrib-requirejs
+
+#### test coverage for  [grunt-contrib-requirejs (v1.0.0)](https://github.com/gruntjs/grunt-contrib-requirejs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-requirejs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-requirejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-requirejs.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-requirejs)
+
 #### Optimize RequireJS projects using r.js
 
 [![NPM](https://nodei.co/npm/grunt-contrib-requirejs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-contrib-requirejs)
